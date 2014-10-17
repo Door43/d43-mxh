@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxh:home|Door43 (mxh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxh|d43-mxh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxh/archive/master.zip|d43-mxh.zip]]
+
+**Recent Changes**
+{{changes>ns = mxh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxh|Ethnologue data]]
+
